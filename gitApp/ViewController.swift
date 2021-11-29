@@ -21,11 +21,11 @@ class ViewController: UIViewController {
          code........
          */
         
-        //Code 2
+        //Code 2 New
         /*
-         code2
-         code2
-         code2........
+         code2new
+         code2new
+         code2new........
          */
         
     }
